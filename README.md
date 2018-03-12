@@ -1,1 +1,3 @@
-very bad Master
+first line 
+second line
+third line
